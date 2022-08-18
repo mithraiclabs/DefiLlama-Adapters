@@ -14,7 +14,6 @@
   "license": "ISC",
   "dependencies": {
     "@defillama/sdk": "^2.3.66",
-    "@mithraic-labs/psy-metrics": "^0.0.2",
     "@project-serum/anchor": "^0.25.0",
     "@solana/spl-token": "^0.3.0",
     "@solana/web3.js": "^1.36.0",
